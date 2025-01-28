@@ -1,7 +1,7 @@
 ## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
 <h3>Perfis:</h3>
 
-<div style="text-align: center; "> Linguagens de Programação/Ferramentas Utlizadas:
+<div style="text-align: center; text-color: #Ff0000; "> Linguagens de Programação/Ferramentas Utlizadas:
 </div>
 
 <!--
