@@ -1,4 +1,4 @@
-## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
+## Aluno no SENAI Jaú, atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
 Hello fellow visitor❤️ 
 <br>
 I am currently studying about Computer Science and Systems Developement; <br>
