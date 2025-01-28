@@ -14,7 +14,7 @@ You can check my recent works here:
 <h5>Profiles:</h5>
 <div style="display: inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=blue">
+<img src="https://img.shields.io/badge/Steam-grey?style=for-the-badge&logo=Steam&logoColor=white">
 </a>
   <br>
 <a href="instagram.com/kenshinmello" target="_blank">
