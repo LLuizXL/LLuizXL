@@ -37,6 +37,11 @@ You can check my recent works here:
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white">
   <img src="https://img.shields.io/badge/Discord.js-darkblue?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Python-darkorange?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  
+ 
+  
   
   
   
