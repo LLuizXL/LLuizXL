@@ -1,9 +1,9 @@
 ## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
 <h3>Perfis:</h3>
 
-<div style="text-align: center; text-color: #Ff0000; "> Linguagens de Programação/Ferramentas Utlizadas:
+<div style="text-align: center; color: #Ff0000; "> Linguagens de Programação/Ferramentas Utlizadas:
 </div>
-
+<div class="img">![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=blue)</div>
 <!--
 **LLuizXL/LLuizXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
