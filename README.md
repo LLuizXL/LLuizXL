@@ -10,8 +10,13 @@
 </a>
 </div>
 
-<div style="text-align: center;">
-Linguagens de Programação/Ferramentas Utlizadas:
+<div style="text-align: center;"> <br>
+  <b>Linguagens de Programação/Ferramentas Utlizadas:</b>
+</div>
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=JavaScript&logoColor=white">
+  
 </div>
 
 <!--
