@@ -1,7 +1,10 @@
 ## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
-Hello fellow visitor❤️ My name is Luiz, 17y, I am currently studying about Computer Science and Systems Developement. <br>
-I have 3+ years experience on programming robots using *Arduino* Credits to my Professor, "Zé",  VALEU ZÉ!!!* <br>
+Hello fellow visitor❤️ 
+<br>
+I am currently studying about Computer Science and Systems Developement. <br>
+I have 3+ years experience on programming robots using **Arduino** Credits to my Professor "Zé", **VALEU ZÉ!!!** <br>
 I ve participated 2x at the Brazillian Robotic Olympics (OBR) representing Centro Educacional SESI-026 (Regional Qualifiers); 
+<br>
 <br>
 You can check my recent works here:
 <div style="display: inline_block"> <br>
