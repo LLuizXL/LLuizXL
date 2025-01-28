@@ -3,7 +3,7 @@
 
 <div style="text-align: center; color: #Ff0000; "> Linguagens de Programação/Ferramentas Utlizadas:
 </div>
-![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=blue)
+![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=blue)]
 <!--
 **LLuizXL/LLuizXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
