@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=blue">
 </a>
 <a href="instagram.com/kenshinmello" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=black">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 </div>
 
