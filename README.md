@@ -1,10 +1,12 @@
-## Hi there 👋
+## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
+<h3>Perfis:</h3>
+
+<div style="text-align: center; "> Linguagens de Programação/Ferramentas Utlizadas:
+</div>
 
 <!--
 **LLuizXL/LLuizXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
