@@ -1,11 +1,13 @@
 ## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
 <h3>Perfis:</h3>
+<div style="display: inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=blue">
 </a>
 <a href="instagram.com/kenshinmello" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=black">
 </a>
+</div>
 
 <div style="text-align: center;">
 Linguagens de Programação/Ferramentas Utlizadas:
