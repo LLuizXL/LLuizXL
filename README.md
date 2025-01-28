@@ -8,13 +8,13 @@ I ve participated 2x at the Brazillian Robotic Olympics (OBR) representing Centr
 <br>
 You can check my recent works here:
 <div style="display: inline_block"> <br>
-<img src="https://img.shields.io/badge/SecurityCTRL-darkblue?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/SecurityCTRL-smokegrey?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
 
 <h5>Profiles:</h5>
 <div style="display: inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
-<img src="https://img.shields.io/badge/Steam-grey?style=for-the-badge&logo=Steam&logoColor=white">
+<img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white">
 </a>
   <br>
 <a href="instagram.com/kenshinmello" target="_blank">
