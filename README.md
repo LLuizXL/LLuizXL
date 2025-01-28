@@ -9,6 +9,10 @@ I ve participated 2x at the Brazillian Robotic Olympics (OBR) representing Centr
 You can check my recent works here:
 <div style="display: inline_block"> <br>
 <img src="https://img.shields.io/badge/SecurityCTRL-darkblue?style=for-the-badge&logo=Figma&logoColor=white">
+  <a href="https://lu1zguilherme.somee.com">
+<img src="https://img.shields.io/badge/NFS Garage FanSite-purple?style=for-the-badge&logo=ea&logoColor=white">
+    
+  </a>
 </div>
 
 <h5>Profiles:</h5>
