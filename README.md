@@ -23,11 +23,17 @@ You can check my recent works here:
 </div>
 
 <div style="text-align: center;"> <br>
-  <b>Linguagens de Programação/Ferramentas Utlizadas:</b>
+  <b>Languages/Tools used:</b>
 </div>
 
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=JavaScript&logoColor=white">
+<div style="display: inline_block"> <br>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=CSharp&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white">
+  
+  
+  
   
 </div>
 
