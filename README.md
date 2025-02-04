@@ -31,7 +31,7 @@ You can check my recent works here:
   <b>Languages/Tools used:</b>
 </div>
 
-<div style="display: inline_block"> <br>
+<div style="display: inline_block background: #fff"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=sharp&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
