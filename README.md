@@ -14,7 +14,7 @@ You can check my recent works here:
     
   </a>
 </div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true">
 <h5>Profiles:</h5>
 <div style="display: inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
@@ -25,7 +25,7 @@ You can check my recent works here:
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 </div>
-![LLuizXL's Stats](https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true)
+(https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true)
 <div style="text-align: center;"> <br>
   <b>Languages/Tools used:</b>
 </div>
