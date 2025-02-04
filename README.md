@@ -22,10 +22,11 @@ You can check my recent works here:
 </a>
   <br>
 <a href="https://instagram.com/kenshinmello" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 </div>
-(https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true)
+  <br>
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
+  
 <div style="text-align: center;"> <br>
   <b>Languages/Tools used:</b>
 </div>
