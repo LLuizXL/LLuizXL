@@ -1,6 +1,6 @@
 ## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
   
-<div style="background: red;">
+<div style="background-color: lightblue ;">
   hello
 </div>
 Hello fellow visitor❤️ 
