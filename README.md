@@ -1,6 +1,8 @@
 ## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
-<div style="background: #f44;">
   
+<div style="background: red;">
+  hello
+</div>
 Hello fellow visitor❤️ 
 <br>
 I am currently studying about Computer Science and Systems Developement; <br>
@@ -44,18 +46,6 @@ You can check my recent works here:
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=microbit&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
-  
-  
-  
- 
-  
-  
-  
-  
-  
-  
-  
-</div>
 </div>
 
 <!--
