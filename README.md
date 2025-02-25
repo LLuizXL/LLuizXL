@@ -1,5 +1,5 @@
 ## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
-<body style="background: #f44;">
+<div style="background: #f44;">
   
 Hello fellow visitor❤️ 
 <br>
@@ -56,7 +56,7 @@ You can check my recent works here:
   
   
 </div>
-</body>
+</div>
 
 <!--
 **LLuizXL/LLuizXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
