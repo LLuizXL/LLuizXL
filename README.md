@@ -1,8 +1,11 @@
-## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
-<div style="background-color: lightblue; padding: 20px;">
-  <h1>Welcome to My Repository</h1>
-  <p>Hello fellow visitor❤️</p>
+<div align="center">
+  
+  ![Design sem nome](https://github.com/user-attachments/assets/18dec701-e933-48ea-b292-f46840d58b75)
+
 </div>
+  <p>Hello fellow visitor❤️</p>
+
+
 <br>
 I am currently studying about Computer Science and Systems Development; <br>
 I have 3+ years experience on programming robots using **Arduino** Credits to my Professor "Zé", **VALEU ZÉ!!!**; <br>
@@ -16,10 +19,12 @@ You can check my recent works here:
 <img src="https://img.shields.io/badge/NFS Garage FanSite-purple?style=for-the-badge&logo=ea&logoColor=white">
   </a>
 </div>
-<div align="center">
+<hr/>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true">
 </div>
-<h5>Profiles:</h5>
+<hr/>
+<h3>🤵‍♂️ Profiles:</h3>
 <div display="inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
 <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white">
@@ -30,8 +35,9 @@ You can check my recent works here:
 </div>
 <br>
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
-<div align="center;"> <br>
-  <b>Languages/Tools used:</b>
+<hr/>
+<div align="center"> <br>
+  <h5><b>Languages and tools used:</b></h5>
 </div>
 <div style="display: inline_block; background: #fff"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
