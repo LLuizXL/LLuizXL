@@ -12,7 +12,7 @@ I have 3+ years experience on programming robots using **Arduino** Credits to my
 I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing Centro Educacional SESI-026 (Regional Qualifiers); 
 <br>
 <br>
-You can check my recent works here:
+<h3>You can check my recent works here:</h3>
 <div style="display: inline_block"> <br>
 <img src="https://img.shields.io/badge/SecurityCTRL-darkblue?style=for-the-badge&logo=Figma&logoColor=white">
   <a href="https://lu1zguilherme.somee.com" target="_blank">
@@ -36,8 +36,8 @@ You can check my recent works here:
 <br>
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
 <hr/>
-<div align="center"> <br>
-  <h5><b>Languages and tools used:</b></h5>
+<div> <br>
+  <h3><b>💻 Technology Stack:</b></h3>
 </div>
 <div style="display: inline_block; background: #fff"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
