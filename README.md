@@ -1,13 +1,12 @@
 ## Aluno no SENAI Jaú, Atualmente cursando meu 2º ano de Desenvolvimento de Sistemas.
-  
-<div style="background-color: lightblue ;">
-  hello
+<div style="background-color: lightblue; padding: 20px;">
+  <h1>Welcome to My Repository</h1>
+  <p>Hello fellow visitor❤️</p>
 </div>
-Hello fellow visitor❤️ 
 <br>
-I am currently studying about Computer Science and Systems Developement; <br>
+I am currently studying about Computer Science and Systems Development; <br>
 I have 3+ years experience on programming robots using **Arduino** Credits to my Professor "Zé", **VALEU ZÉ!!!**; <br>
-I ve participated 2x at the Brazillian Robotic Olympics (OBR) representing Centro Educacional SESI-026 (Regional Qualifiers); 
+I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing Centro Educacional SESI-026 (Regional Qualifiers); 
 <br>
 <br>
 You can check my recent works here:
@@ -15,12 +14,13 @@ You can check my recent works here:
 <img src="https://img.shields.io/badge/SecurityCTRL-darkblue?style=for-the-badge&logo=Figma&logoColor=white">
   <a href="https://lu1zguilherme.somee.com" target="_blank">
 <img src="https://img.shields.io/badge/NFS Garage FanSite-purple?style=for-the-badge&logo=ea&logoColor=white">
-    
   </a>
 </div>
-<img style="align-items: center; justify-content: center;" src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true">
+</div>
 <h5>Profiles:</h5>
-<div style="display: inline_block"><br>
+<div display="inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
 <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white">
 </a>
@@ -28,14 +28,12 @@ You can check my recent works here:
 <a href="https://instagram.com/kenshinmello" target="_blank">
 </a>
 </div>
-  <br>
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
-  
-<div style="text-align: center;"> <br>
+<br>
+<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
+<div align="center;"> <br>
   <b>Languages/Tools used:</b>
 </div>
-
-<div style="display: inline_block background: #fff"> <br>
+<div style="display: inline_block; background: #fff"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=sharp&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
@@ -47,7 +45,6 @@ You can check my recent works here:
   <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=microbit&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
-
 <!--
 **LLuizXL/LLuizXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
