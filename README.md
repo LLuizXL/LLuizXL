@@ -18,7 +18,7 @@ You can check my recent works here:
     
   </a>
 </div>
-<img style="align-items: center;" src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true">
+<img style="align-items: center; justify-content: center;" src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true">
 <h5>Profiles:</h5>
 <div style="display: inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
