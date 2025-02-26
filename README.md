@@ -64,7 +64,8 @@ I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing Cent
 </div>
 
 <hr>
-<div aling="center">
+<br>
+<div align="center">
   
 ![Sem nome (1920 x 400 px) (1)](https://github.com/user-attachments/assets/9a59d1e8-a889-45ce-9ede-9effd0fcfdaa)
 
