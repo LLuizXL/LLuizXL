@@ -7,15 +7,14 @@
 
 </div>
 
-
-<hr>
-  <h4>About Me</h4>
+  <h1>About Me</h1>
 
 
 <br>
-I am currently studying about Computer Science and Systems Development; <br>
-I have 3+ years experience on programming robots using **Arduino** Credits to my Professor "Zé", **VALEU ZÉ!!!**; <br>
-I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing Centro Educacional SESI-026 (Regional Qualifiers); 
+<p>
+  
+I am currently studying about Computer Science and Systems Development. I have 3+ years experience on programming robots using **Arduino** and **Lego EV3** for school and regional tournaments. I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing *Centro Educacional SESI-026* (Regional Qualifiers); I love to create unique designs and learn new languages and methods, applying them aside with what i like. I'm also a huge fan of videogames, so you'll often see my profile changing periodicly according with the franchises that i love. Cover art: Street Fighter III: 3rd Strike
+</p>
 <br>
 <br>
 <h3>You can check my recent works here:</h3>
@@ -26,18 +25,14 @@ I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing Cent
   </a>
 </div>
 <hr/>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true">
+<div align="center">
+  <h3>Current Status:</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=true&count_private=true">
 </div>
 
 <hr/>
 
-<div align="center">
 
-![Street Fighter III Banner)](https://github.com/user-attachments/assets/0983fdf4-9592-48ba-86e0-ba2eabf19299)
-
-  
-</div>
 <h3>🤵‍♂️ Profiles:</h3>
 <div display="inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
@@ -69,10 +64,17 @@ I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing Cent
 <hr>
 <br>
 <div align="center">
+
+![Street Fighter III Banner)](https://github.com/user-attachments/assets/0983fdf4-9592-48ba-86e0-ba2eabf19299)
+
   
+</div>
+  
+<!--<div align="center">
 ![Sem nome (1920 x 400 px) (1)](https://github.com/user-attachments/assets/9a59d1e8-a889-45ce-9ede-9effd0fcfdaa)
 
-</div>
+</div> -->
+
 <!--
 **LLuizXL/LLuizXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
