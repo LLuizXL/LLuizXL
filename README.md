@@ -23,7 +23,15 @@ I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing Cent
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=false&count_private=true">
 </div>
+
 <hr/>
+
+<div align="center">
+
+![Street Fighter III Banner)](https://github.com/user-attachments/assets/0983fdf4-9592-48ba-86e0-ba2eabf19299)
+
+  
+</div>
 <h3>🤵‍♂️ Profiles:</h3>
 <div display="inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
