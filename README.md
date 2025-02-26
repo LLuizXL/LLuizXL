@@ -62,6 +62,13 @@ I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing Cent
   <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=microbit&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
+
+<hr>
+<div aling="center">
+  
+![Sem nome (1920 x 400 px) (1)](https://github.com/user-attachments/assets/9a59d1e8-a889-45ce-9ede-9effd0fcfdaa)
+
+</div>
 <!--
 **LLuizXL/LLuizXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
