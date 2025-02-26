@@ -46,9 +46,9 @@ I am currently studying about Computer Science and Systems Development. I have 3
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
 <hr/>
 <div> <br>
-  <h3><b>💻 Technology Stack:</b></h3>
+  <h3><b>💻 Technologies Stack:</b></h3>
 </div>
-<div style="display: inline_block; background: #fff"> <br>
+<div style="display: flex; gap: 3px; background: #fff"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=sharp&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
