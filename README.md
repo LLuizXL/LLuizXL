@@ -48,7 +48,7 @@ I am currently studying about Computer Science and Systems Development. I have 3
 <div> <br>
   <h3><b>💻 Technologies Stack:</b></h3>
 </div>
-<div style="display: flex; gap: 3px; background: #fff"> <br>
+<div display="flex" align="center"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=sharp&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
