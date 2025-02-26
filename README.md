@@ -1,12 +1,15 @@
 <div align="center">
   
-  ![Design sem nome](https://github.com/user-attachments/assets/18dec701-e933-48ea-b292-f46840d58b75)
+ <!-- ![Design sem nome](https://github.com/user-attachments/assets/18dec701-e933-48ea-b292-f46840d58b75)
+-->
+
+![sf3-third-strike-poster-art-by-akiman](https://github.com/user-attachments/assets/979bfac3-9cd1-4ac8-bf50-43e4ae989cfe) 
 
 </div>
 
 
 <hr>
-  <p>Hello fellow visitor❤️</p>
+  <h4>About Me</h4>
 
 
 <br>
