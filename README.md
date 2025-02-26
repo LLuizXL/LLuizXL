@@ -3,6 +3,9 @@
   ![Design sem nome](https://github.com/user-attachments/assets/18dec701-e933-48ea-b292-f46840d58b75)
 
 </div>
+
+
+<hr>
   <p>Hello fellow visitor❤️</p>
 
 
