@@ -57,6 +57,8 @@ I am currently studying about Computer Science and Systems Development. I have 3
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=microbit&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-Blue?style=for-the-badge&logo=vite&logoColor=white">
+  
 </div>
 
 <hr>
