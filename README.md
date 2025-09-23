@@ -1,14 +1,14 @@
-<div align="center">
+<!-- <div align="center">
   
  <!-- ![Design sem nome](https://github.com/user-attachments/assets/18dec701-e933-48ea-b292-f46840d58b75)
 -->
 
- <!--  ![sf3-third-strike-poster-art-by-akiman](https://github.com/user-attachments/assets/979bfac3-9cd1-4ac8-bf50-43e4ae989cfe)  -->]
+ <!--  ![sf3-third-strike-poster-art-by-akiman](https://github.com/user-attachments/assets/979bfac3-9cd1-4ac8-bf50-43e4ae989cfe)
 
  
-<!-- ![background_custom](https://github.com/user-attachments/assets/e4737588-471d-4f52-a0f4-06b58e4ca93a) -->
+<!-- ![background_custom](https://github.com/user-attachments/assets/e4737588-471d-4f52-a0f4-06b58e4ca93a)
 
-</div>
+</div> -->
 
   <h2>About Me</h2>
 
