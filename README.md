@@ -67,7 +67,6 @@ I am currently studying about Computer Science and Systems Development. I have 3
 <br>
 <div align="center">
 
-![Street Fighter III Banner)](https://github.com/user-attachments/assets/0983fdf4-9592-48ba-86e0-ba2eabf19299)
 
   
 </div>
