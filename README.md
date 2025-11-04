@@ -19,12 +19,12 @@ I am currently studying about Computer Science and Systems Development. I have 3
 </p>
 <br>
 <br>
-<h3>You can check my recent works here:</h3>
+<!-- <h3>You can check my recent works here:</h3>
 <div style="display: inline_block">
   <a href="https://lluizxl.github.io/Project.NPSLM/homepage.html" target="_blank">
 <img src="https://img.shields.io/badge/NPLSM Site-purple?style=for-the-badge&logo=music&logoColor=white">
   </a>
-</div>
+</div> -->
 <div align="center">
   <h3>Current Status:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=LLuizXL&theme=jolly&show_icons=true&hide_border=true&count_private=true">
