@@ -43,10 +43,9 @@ I am currently studying about Computer Science and Systems Development. I have 3
 <div> <br>
   <h3><b>💻 Main Technologies: </b></h3>
 </div>
-<div display="flex" align="center"> <br>
+<div display="flex" align="center">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=cshrp&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Discord.js-darkblue?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Python-darkorange?style=for-the-badge&logo=python&logoColor=white">
@@ -55,6 +54,9 @@ I am currently studying about Computer Science and Systems Development. I have 3
   <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=microbit&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"> -->
   <img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
   
 </div>
 
