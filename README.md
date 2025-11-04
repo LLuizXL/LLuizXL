@@ -45,7 +45,7 @@ I am currently studying about Computer Science and Systems Development. I have 3
 </div>
 <div display="flex" align="center"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=sharp&logoColor=white">
+  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)]
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Discord.js-darkblue?style=for-the-badge&logo=discord&logoColor=white">
