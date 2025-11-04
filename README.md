@@ -33,32 +33,27 @@ I am currently studying about Computer Science and Systems Development. I have 3
 <hr/>
 
 
-<h3>🤵‍♂️ Profiles:</h3>
+<h3>🗣 Profiles:</h3>
 <div display="inline_block"><br>
 <a href="https://steamcommunity.com/id/RosyRoadToGlory" target="_blank">
 <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white">
 </a>
-  <br>
-<a href="https://instagram.com/kenshinmello" target="_blank">
-</a>
 </div>
-<br>
-<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white">
 <hr/>
 <div> <br>
-  <h3><b>💻 Technologies Stack:</b></h3>
+  <h3><b>💻 Main Technologies: </b></h3>
 </div>
 <div display="flex" align="center"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=sharp&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord.js-darkblue?style=for-the-badge&logo=discord&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Discord.js-darkblue?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Python-darkorange?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=microbit&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"> -->
   <img src="https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react&logoColor=white">
   
 </div>
