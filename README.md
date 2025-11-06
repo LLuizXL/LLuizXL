@@ -15,7 +15,7 @@
 
 <p>
   
-I am currently studying about Computer Science and Systems Development. I have 3+ years experience on programming robots using **Arduino** and **Lego EV3** for school and regional tournaments. I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing *Centro Educacional SESI-026* (Regional Qualifiers); I love to create unique designs and learn new languages and methods, applying them aside with what i like. I'm also a huge fan of videogames, so you'll often see my profile changing periodicly according with the franchises that i love.
+I am currently studying Systems Development. I have 3+ years experience on programming robots using **Arduino** and **Lego EV3** for school and regional tournaments. I’ve participated 2x at the Brazilian Robotic Olympics (OBR) representing *Centro Educacional SESI-026* (Regional Qualifiers); I love to create unique designs and learn new languages and methods, applying them aside with what i like and build creative solutions. I'm also a huge fan of videogames, so you'll often see my profile changing periodicly according with the franchises that i love.
 </p>
 <br>
 <br>
